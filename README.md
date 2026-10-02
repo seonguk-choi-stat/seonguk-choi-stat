@@ -12,4 +12,4 @@ I am an undergraduate student.
 
 
 ### 📬 Connect with Me
-*   **Email:** mailto:seonguk.choi.stat@gmail.com
+*   **Email:** seonguk.choi.stat@gmail.com
