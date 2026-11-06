@@ -1,11 +1,11 @@
 # Seonguk Choi
 
-Undergraduate student in Statistics (minor in Mathematics) at **Pusan National University**, Busan, South Korea.
+Undergraduate student in Statistics (minor in Mathematics) at Pusan National University, Busan, South Korea.
 Undergraduate Research Assistant with Prof. Jongmin Lee.
 
 ### Research Interests
 
-Non-Euclidean Statistics · Optimal Transport · Nonparametric Inference · Statistical Inverse Problems
+Non-Euclidean Statistics · Nonparametric Inference
 
 ### Current Work: Wasserstein Gradient Descent Decompounding (WGDD)
 
@@ -18,12 +18,12 @@ It fits the summand law by minimizing the 2-Wasserstein distance between simulat
 
 ### Presentations
 
-- **Decompounding via Wasserstein Gradient Descent** — contributed talk, IMS International Conference on Statistics and Data Science (ICSDS 2026), Split, Croatia, December 2026
+- Decompounding via Wasserstein Gradient Descent — contributed talk, IMS International Conference on Statistics and Data Science (ICSDS 2026), Split, Croatia, December 2026 (scheduled)
 
 ### Skills
 
-- **Languages:** R, Python, C/C++, SQL, MATLAB, Bash
-- **Tools:** LaTeX, Git
+- Languages: R, Python, C/C++, SQL, MATLAB, Bash
+- Tools: LaTeX, Git
 
 ### Contact
 
