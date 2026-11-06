@@ -20,6 +20,10 @@ It fits the summand law by minimizing the 2-Wasserstein distance between simulat
 
 - Decompounding via Wasserstein Gradient Descent — contributed talk, IMS International Conference on Statistics and Data Science (ICSDS 2026), Split, Croatia, December 2026 (scheduled)
 
+### Software
+
+- [wassersteinStats](https://github.com/seonguk-choi-stat/wassersteinStats) — R package and interactive Shiny app for optimal transport, Wasserstein geodesics, and Fréchet means on the line and in the plane ([live demo](https://seonguk-choi-stat.shinyapps.io/wassersteinStats/))
+
 ### Skills
 
 - Languages: R, Python, C/C++, SQL, MATLAB, Bash
